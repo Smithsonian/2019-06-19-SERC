@@ -2,7 +2,7 @@
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "dc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc").  
                       # Be sure to update the Carpentry type in _config.yml as well.  
-venue: "Smithsonian Environmental Research Center, Matthias 1103"        # brief name of host site without address (e.g., "Euphoric State University")
+venue: "Smithsonian Environmental Research Center, Matthias 1013"        # brief name of host site without address (e.g., "Euphoric State University")
 address: "647 Contees Wharf Road, Edgewater MD 21037"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "United States"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
