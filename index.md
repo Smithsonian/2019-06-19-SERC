@@ -373,8 +373,8 @@ please preview your site before committing, and make sure to run
           Install R by downloading and running
           <a href="https://cran.r-project.org/bin/windows/base/release.htm">this .exe file</a>
           from <a href="https://cran.r-project.org/index.html">CRAN</a>.
-          Also, please install the
-          <a href="https://www.rstudio.com/products/rstudio/download/#download">RStudio IDE</a>.
+          <strong>Also, please install the
+          <a href="https://www.rstudio.com/products/rstudio/download/#download">RStudio IDE</strong></a>.
           Note that if you have separate user and admin accounts, you should run the 
           installers as administrator (right-click on .exe file and select "Run as 
           administrator" instead of double-clicking). Otherwise problems may occur later, 
