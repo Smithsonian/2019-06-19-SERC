@@ -151,6 +151,10 @@ special instructions.
   you (e.g. sign-language interpreters, lactation facilities) please
   get in touch (using contact details below) and we will
   attempt to provide them.
+  
+  Course Etherpad:
+  https://pad.carpentries.org/2019-06-19-SERC
+  
 </p>
 
 {% comment %}
