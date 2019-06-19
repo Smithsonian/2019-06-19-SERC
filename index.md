@@ -152,8 +152,7 @@ special instructions.
   get in touch (using contact details below) and we will
   attempt to provide them.
   
-  Course Etherpad:
-  https://pad.carpentries.org/2019-06-19-SERC
+  Click here for the [Course Etherpad](https://pad.carpentries.org/2019-06-19-SERC).
   
 </p>
 
